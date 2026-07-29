@@ -18,7 +18,22 @@ Install the extension by loading the project folder in Chrome or Edge:
 ## Usage
 
 ```sh
-Open chrome://extensions or edge://extensions
+**How to Install and Use the Extension**
+
+Follow these steps to install the extension in your browser:
+
+**Open a Browser**
+Open any Chromium-based browser. Google Chrome is recommended.
+**Open the Extensions Page**
+Click the Extensions icon (puzzle-piece icon) in the top-right corner of your browser, then select Manage Extensions.
+**Enable Developer Mode**
+On the Extensions page, turn on the Developer mode toggle located in the top-right corner.
+**Load the Extension**
+Click the Load unpacked button.
+**Select the Extension Folder**
+Extract the downloaded ZIP file and select the extension folder containing the extension files.
+**Done! 🎉**
+Your extension is now installed and ready to use. You can access it from the browser's Extensions menu.
 ```
 
 ## Run tests
